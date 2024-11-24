@@ -68,7 +68,7 @@ Donde:
 
 ## 📷 Capturas de pantalla
 
-_Agrega aquí imágenes de la visualización para que los usuarios puedan ver cómo luce el proyecto en ejecución._
+![](video_output.mp4)
 
 ---
 
