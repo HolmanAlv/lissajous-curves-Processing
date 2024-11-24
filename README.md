@@ -68,7 +68,7 @@ Donde:
 
 ## 📷 Capturas de pantalla
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/PMFEQsnOy00)
+[![]([https://i.sstatic.net/Vp2cE.png](https://img.youtube.com/vi/PMFEQsnOy00/maxresdefault.jpg))](https://youtu.be/PMFEQsnOy00)
 
 ---
 
