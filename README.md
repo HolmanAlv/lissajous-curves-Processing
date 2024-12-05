@@ -66,7 +66,7 @@ Donde:
 
 ---
 
-## 📷 Capturas de pantalla
+## 📷 Video Demostración
 
 [![Watch the video](https://img.youtube.com/vi/PMFEQsnOy00/maxresdefault.jpg)](https://youtu.be/PMFEQsnOy00)
 
