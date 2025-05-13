@@ -92,7 +92,3 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 ## 💡 Inspiración
 
 Este proyecto es parte de una tarea de composición móvil interactiva en el contexto de **arte generativo**.
-
---- 
-
-¿Quieres agregar algo más o modificar algún detalle? 😊
